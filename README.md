@@ -1,2 +1,2 @@
-# week-1-
+# week-1
 this is my first week homewaork
